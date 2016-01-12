@@ -1,0 +1,13 @@
+{
+  "icon": "",
+  "name": "Araport_Cistome",
+  "description": "Araport Cistome",
+  "html": "main.html",
+  "scripts": [
+    "scripts/aip-helper.js",
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/main.css"
+  ]
+}
